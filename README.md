@@ -1,4 +1,4 @@
-# Lojadeacessorios!
+# Lojadeacessorios
 
 
 Online Shopping App UI
